@@ -7,19 +7,19 @@ const data = [
         contract: "0x6407783aF143F978809CdA0B91059DfD5d7714dA",
         title:"The Blind Brother",
         creation: "11/15/2024",
-        tier1_final: "", 
-        tier2_start: "", 
-        tier2_final: "", 
-        claiming_expire: ""
+        tier1_final: "12/13/2024", 
+        tier2_start: "12/14/2024", 
+        tier2_final: "12/28/2024", 
+        claiming_expire: "12/29/2024"
     },
     {
         contract: "0xC33c03D773453076DEaCB25634384199Ac200eBA",
         title:"The Green Odyssey",
         creation: "11/15/2024",
-        tier1_final: "", 
-        tier2_start: "", 
-        tier2_final: "", 
-        claiming_expire: ""
+        tier1_final: "12/13/2024", 
+        tier2_start: "12/14/2024", 
+        tier2_final: "12/28/2024", 
+        claiming_expire: "12/29/2024"
     },
     {   
         contract: "0x9470a8E957EACA3538Fc0567A25BAb1770DF69F6", 
