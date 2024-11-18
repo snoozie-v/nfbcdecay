@@ -140,7 +140,7 @@ const data = [
     },
     {
         contract: "0xf52518a4541240F9DD2DA80B308D0A6936752302",
-        title:"The Lair of the White Worm",
+        title:"Lair of the White Worm",
         creation: "10/02/2024",
         tier1_final: "11/10/2024", 
         tier2_start: "11/11/2024", 
