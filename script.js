@@ -4,6 +4,24 @@ console.log(currentYear)
 
 const data = [
     {
+        contract: "0x7218D65DFDc072A7D93F07E20FA0b92Bf9A2Ef27",
+        title:"The Coming People",
+        creation: "11/26/2024",
+        tier1_final: "12/29/2024", 
+        tier2_start: "12/30/2024", 
+        tier2_final: "1/12/2025", 
+        claiming_expire: "1/13/2025"
+    },
+    {
+        contract: "0xBA64a0e4586684e71dA251Ea7391E870d37b501b",
+        title:"The Worm Ouroboros",
+        creation: "11/26/2024",
+        tier1_final: "12/29/2024", 
+        tier2_start: "12/30/2024", 
+        tier2_final: "1/12/2025", 
+        claiming_expire: "1/13/2025"
+    },
+    {
         contract: "0xaA7EE381AD00cb3d5BB104525541eEc8CCd71cA8",
         title:"Book of Dragons",
         creation: "11/25/2024",
