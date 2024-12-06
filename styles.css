@@ -21,6 +21,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
     gap: 20px;
     max-width: 90%;
   }
@@ -29,11 +30,13 @@ a {
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;
-    width: 333px;
+    width: 420px;
+    /* height: 200px; */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     /* text-align: center; */
 }
   
