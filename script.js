@@ -7,13 +7,15 @@ const data = [
         contract: "0x138Fc079CFCD214A7afF4D38533A9574D4aDF463",
         title:"Beyond the City",
         creation: "12/6/2024",
-        tier1_final: "1/5/2024"
+        tier1_final: "1/5/2024",
+        claiming_expire: "1/6/2025"
     },
     {
         contract: "0x6521B0e9f697c9eb8a8e33743b843bF5b8d0822c",
         title:"Four-Fifty Miles to Freedom",
         creation: "12/6/2024",
-        tier1_final: "1/5/2024"
+        tier1_final: "1/5/2024",
+        claiming_expire: "1/6/2025"
     },
     {
         contract: "0x290d65836FF3ccBe27E68Df92aeaE770eDa34945",
