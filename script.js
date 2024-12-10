@@ -4,6 +4,27 @@ console.log(currentYear)
 
 const data = [
     {
+        contract: "0x7819982c650D831F2ed13D9DB0e00b99e5E98606",
+        title:"Nutcracker and King Mouse",
+        creation: "12/10/2024",
+        tier3_final: "12/29/2024",
+        claiming_expire: "12/30/2024"
+    },
+    {
+        contract: "0x87543EAD491e64BA5A358c3901c86e448Be3865e",
+        title:"Christmas Comes But Once a Year",
+        creation: "12/10/2024",
+        tier3_final: "12/29/2024",
+        claiming_expire: "12/30/2024"
+    },
+    {
+        contract: "0x944F412D04A74B82c261f8540DB851D7A2D74ab5",
+        title:"Life and Adventures of Santa Claus",
+        creation: "12/10/2024",
+        tier3_final: "12/29/2024",
+        claiming_expire: "12/30/2024"
+    },
+    {
         contract: "0x138Fc079CFCD214A7afF4D38533A9574D4aDF463",
         title:"Beyond the City",
         creation: "12/6/2024",
@@ -112,43 +133,7 @@ const data = [
         tier2_start: "12/9/2024", 
         tier2_final: "12/22/2024", 
         claiming_expire: "12/23/2024"
-    },
-    {
-        contract: "0x05f764D670Ea95B536E01bF2e3C48d84242C0EE6",
-        title:"The Echanted Castle",
-        creation: "10/21/2024",
-        tier1_final: "11/24/2024", 
-        tier2_start: "11/25/2024", 
-        tier2_final: "12/8/2024", 
-        claiming_expire: "12/9/2024"
-    },
-    {
-        contract: "0xbbc2A43dab2Bc8a071c970A12F0BF3223467f61c",
-        title:"Thus Spoke Zarathustra",
-        creation: "10/21/2024",
-        tier1_final: "11/24/2024", 
-        tier2_start: "11/25/2024", 
-        tier2_final: "12/8/2024", 
-        claiming_expire: "12/9/2024"
-    },
-    {
-        contract: "0x5277cC5C485c40BB08107689199C8c4f0c8414b2",
-        title:"Jane Eyre",
-        creation: "10/21/2024",
-        tier1_final: "11/24/2024", 
-        tier2_start: "11/25/2024", 
-        tier2_final: "12/8/2024", 
-        claiming_expire: "12/9/2024"
-    },
-    {
-        contract: "0x5FfB5957591C850f0c156c67c121A8092a1ffE12",
-        title:"Robinson Crusoe",
-        creation: "10/21/2024",
-        tier1_final: "11/24/2024", 
-        tier2_start: "11/25/2024", 
-        tier2_final: "12/8/2024", 
-        claiming_expire: "12/9/2024"
-    },
+    }
 ]
 
 
@@ -166,8 +151,9 @@ function displayData() {
     ${item.tier1_final ? `<li><strong>Tier 1 Final Day:</strong> ${item.tier1_final}</li>` : ''}
     ${item.tier2_start ? `<li><strong>Tier 2 Start Date:</strong> ${item.tier2_start}</li>` : ''}
     ${item.tier2_final ? `<li><strong>Tier 2 Final Day:</strong> ${item.tier2_final}</li>` : ''}
-    ${item.claiming_expire ? `<li><strong>Claiming Expire:</strong> ${item.claiming_expire}</li>` : ''}
     ${item.tier3_final ? `<li><strong>Tier 3 Final Day:</strong> ${item.tier3_final}<li>` : ''}
+    ${item.claiming_expire ? `<li><strong>Claiming Expire:</strong> ${item.claiming_expire}</li>` : ''}
+    
   </ul>
 `;
   
