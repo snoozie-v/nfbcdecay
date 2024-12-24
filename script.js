@@ -4,6 +4,24 @@ console.log(currentYear)
 
 const data = [
     {
+        contract: "0x00026Fe8b787d0c4c897Bc8dE31CcC50d823e382",
+        title:"Cricket on the Hearth",
+        creation: "12/23/2024",
+        claiming_expire: "1/12/2025"
+    },
+    {
+        contract: "0xDFF514042822c3304CC5A0CD8fFDaD260f9a3162",
+        title:"The Great Shadow",
+        creation: "12/23/2024",
+        claiming_expire: "1/12/2025"
+    },
+    {
+        contract: "0x94d5FD0c6757BdD1C61062f5A973603b9e6eEabA",
+        title:"The King in Yellow",
+        creation: "12/23/2024",
+        claiming_expire: "1/12/2025"
+    },
+    {
         contract: "0x7819982c650D831F2ed13D9DB0e00b99e5E98606",
         title:"Nutcracker and King Mouse",
         creation: "12/10/2024",
