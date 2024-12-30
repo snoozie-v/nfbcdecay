@@ -4,6 +4,42 @@ console.log(currentYear)
 
 const data = [
     {
+        contract: "0x4BDE1EaE81914909C8979d85e3C03D5434D60B79",
+        title:"As a Man Thinketh",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
+        contract: "0xEb94A729c3eD6a06341C1bbbe172549Dd8773127",
+        title:"Stolen Idols",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
+        contract: "0x9d42eE98974dDCE760d1ffB022dE4eBFF593a189",
+        title:"Soldiers' Pay",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
+        contract: "0x216dac77861fB0432cF85E9E3Ff5C9ff781dac41",
+        title:"Wings and the child",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
+        contract: "0x07994fD9De10b50197B3d7C8246d64A71fd0dD87",
+        title:"Rebellion",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
+        contract: "0x9De0A80066a3c5a7279CabE9519448B1ffC9128e",
+        title:"The Black Tulip",
+        creation: "12/30/2024",
+        claiming_expire: "1/20/2025"
+    },
+    {
         contract: "0x00026Fe8b787d0c4c897Bc8dE31CcC50d823e382",
         title:"Cricket on the Hearth",
         creation: "12/23/2024",
@@ -116,42 +152,6 @@ const data = [
         tier2_final: "12/29/2024", 
         claiming_expire: "12/30/2024"
     },
-    {   
-        contract: "0x9470a8E957EACA3538Fc0567A25BAb1770DF69F6", 
-        title: "The Awakening", 
-        creation: "11/8/2024",
-        tier1_final: "12/8/2024", 
-        tier2_start: "12/9/2024", 
-        tier2_final: "12/22/2024", 
-        claiming_expire: "12/23/2024"
-    },
-    {
-        contract: "0xD6e4dDa5954bbc11486cc5BD4b8c8f0F674F788C",
-        title:"The Iliad of Homer",
-        creation: "11/8/2024",
-        tier1_final: "12/8/2024", 
-        tier2_start: "12/9/2024", 
-        tier2_final: "12/22/2024", 
-        claiming_expire: "12/23/2024"
-    },
-    {
-        contract: "0x55E0622d16260Bb94d1D6b5f45e0D8A8f8A6f250",
-        title:"Think and Grow Rich",
-        creation: "11/8/2024",
-        tier1_final: "12/8/2024", 
-        tier2_start: "12/9/2024", 
-        tier2_final: "12/22/2024", 
-        claiming_expire: "12/23/2024"
-    },
-    {
-        contract: "0xE7C70207D8fA494b8AFeBA3792FeF462BA001A37",
-        title:"The Jungle",
-        creation: "11/8/2024",
-        tier1_final: "12/8/2024", 
-        tier2_start: "12/9/2024", 
-        tier2_final: "12/22/2024", 
-        claiming_expire: "12/23/2024"
-    }
 ]
 
 
