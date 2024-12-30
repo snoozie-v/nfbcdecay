@@ -60,7 +60,7 @@ const data = [
         contract: "0x290d65836FF3ccBe27E68Df92aeaE770eDa34945",
         title:"Silas Marner",
         creation: "12/6/2024",
-        tier3_final: "12/30/2024"
+        claiming_expire: "12/30/2024"
     },
     {
         contract: "0x7218D65DFDc072A7D93F07E20FA0b92Bf9A2Ef27",
