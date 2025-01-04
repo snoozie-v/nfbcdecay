@@ -4,6 +4,42 @@ console.log(currentYear)
 
 const data = [
     {
+        contract: "0x3D883BF47aE79035dfE8906Cf6a5171A0abEA0EA",
+        title:"The Protector",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
+        contract: "0x68Da9CECDBF451549D0fd9b74f7f3D0cd467Ba6d",
+        title:"The Little Lame Prince",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
+        contract: "0x04132B9b311E0107Ba282a7F4d9c48734DF47D4B",
+        title:"Captain Ted",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
+        contract: "0xA4e7196fbd671C2Bec86a1745BF747Fbe8C61c9A",
+        title:"Gentlemmen Prefer Blondes",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
+        contract: "0x4ef7228EbEd2655e3183aF2eccB41aCe580551Ba",
+        title:"Four-Day Planet",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
+        contract: "0xFD028CAf2bd2363aee5d17DD9330D075b65E1806",
+        title:"Spacehounds of IPC",
+        creation: "1/3/2025",
+        claiming_expire: "1/27/2025"
+    },
+    {
         contract: "0x4BDE1EaE81914909C8979d85e3C03D5434D60B79",
         title:"As a Man Thinketh",
         creation: "12/30/2024",
@@ -133,24 +169,6 @@ const data = [
         tier2_start: "12/23/2024", 
         tier2_final: "1/5/2025", 
         claiming_expire: "1/6/2025"
-    },
-    {
-        contract: "0x6407783aF143F978809CdA0B91059DfD5d7714dA",
-        title:"The Blind Brother",
-        creation: "11/15/2024",
-        tier1_final: "12/15/2024", 
-        tier2_start: "12/16/2024", 
-        tier2_final: "12/29/2024", 
-        claiming_expire: "12/30/2024"
-    },
-    {
-        contract: "0xC33c03D773453076DEaCB25634384199Ac200eBA",
-        title:"The Green Odyssey",
-        creation: "11/15/2024",
-        tier1_final: "12/15/2024", 
-        tier2_start: "12/16/2024", 
-        tier2_final: "12/29/2024", 
-        claiming_expire: "12/30/2024"
     },
 ]
 
