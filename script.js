@@ -152,24 +152,6 @@ const data = [
         tier2_final: "1/12/2025", 
         claiming_expire: "1/13/2025"
     },
-    {
-        contract: "0xaA7EE381AD00cb3d5BB104525541eEc8CCd71cA8",
-        title:"Book of Dragons",
-        creation: "11/25/2024",
-        tier1_final: "12/22/2024", 
-        tier2_start: "12/23/2024", 
-        tier2_final: "1/5/2025", 
-        claiming_expire: "1/6/2025"
-    },
-    {
-        contract: "0xbeB61c9d0d3bB2A63CB36252E3497d09aEBBB172",
-        title:"Death of the Lion",
-        creation: "11/25/2024",
-        tier1_final: "12/22/2024", 
-        tier2_start: "12/23/2024", 
-        tier2_final: "1/5/2025", 
-        claiming_expire: "1/6/2025"
-    },
 ]
 
 
