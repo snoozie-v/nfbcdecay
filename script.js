@@ -1,8 +1,44 @@
 const currentYear = new Date().getFullYear()
 
 console.log(currentYear)
-
+0xE60270D999f28460207d1BA79E9D76d6205aB480
 const data = [
+    {
+        contract: "0xE60270D999f28460207d1BA79E9D76d6205aB480",
+        title: "The Life of Charlemagne",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
+    {
+        contract: "0xCA0F6899CDCDd703e0d1C72020C771581D394e54",
+        title: "Candide",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
+    {
+        contract: "0xA16EC90c7dA04C02da0BF184dc1dc83C9B193A36",
+        title: "To The Lighthouse",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
+    {
+        contract: "0x99D5E4A6aF7C1603C0287Fffa00e2C7C99FcA560",
+        title: "The Poison Belt",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
+    {
+        contract: "0x25eB7c299765dE430dCc4A77b786E72e53868f03",
+        title: "The Power of Concentration",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
+    {
+        contract: "0xb603A874d4eAa1D625243f0a416506D62f38a789",
+        title: "The Art of Money Getting",
+        creation: "1/11/2025",
+        claiming_expire: "2/3/2025"
+    },
     {
         contract: "0x3D883BF47aE79035dfE8906Cf6a5171A0abEA0EA",
         title:"The Protector",
@@ -158,8 +194,17 @@ const data = [
 function displayData() {
     const dataContainer = document.getElementById('data-container');
     dataContainer.innerHTML = '';
+
+        // Get current date for comparison
+    const now = new Date();
+    
+    // Filter out expired books
+    const activeBooks = data.filter(item => {
+        const expireDate = new Date(item.claiming_expire);
+        return expireDate > now; // Keep only books where expiration date is in the future
+    });
   
-    data.forEach(item => {
+    activeBooks.forEach(item => {
       const itemDiv = document.createElement('div');
       itemDiv.className = 'data-item'; 
       itemDiv.innerHTML = `
@@ -180,3 +225,5 @@ function displayData() {
   }
   
   displayData();
+
+  setInterval(displayData, 43200000); // Update every 12 hours
