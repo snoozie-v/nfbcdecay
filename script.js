@@ -1,8 +1,51 @@
+// {
+//     contract: "",
+//     title: "",
+//     creation: "",
+//     claiming_expire: ""
+// },
+
 const currentYear = new Date().getFullYear()
 
 console.log(currentYear)
-0xE60270D999f28460207d1BA79E9D76d6205aB480
+
 const data = [
+    {
+        contract: "0x20439791b288d489aA3413E14C4C7F199Ed2DbB0",
+        title: "This Crowded Earth",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
+    {
+        contract: "0xa2a1D1d4d51b60B7f4aaAEBBD3b175F34732BF56",
+        title: "Orlando",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
+    {
+        contract: "0xDd594d985912d900506C07918805e8E5e1781321",
+        title: "The Burning Secret",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
+    {
+        contract: "0xcBEE1ff3242eAB1409c6ECBfcBdF0B82350b63a7",
+        title: "Sunshine and Snow",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
+    {
+        contract: "0xCb3F9Cb4d9C90ddB289a4aE8FA32e15e29E05EeD",
+        title: "Deathworld",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
+    {
+        contract: "0x60a2a78BB4bfE8Bae422Fd4e0f7C9e805156229d",
+        title: "A Study in Scarlet",
+        creation: "1/18/2025",
+        claiming_expire: "2/9/2025"
+    },
     {
         contract: "0xE60270D999f28460207d1BA79E9D76d6205aB480",
         title: "The Life of Charlemagne",
