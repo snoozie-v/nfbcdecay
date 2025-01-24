@@ -1,8 +1,8 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "",
-//     claiming_expire: ""
+//     creation: "1/23/2025",
+//     claiming_expire: "2/16/2025"
 // },
 
 const currentYear = new Date().getFullYear()
@@ -10,6 +10,42 @@ const currentYear = new Date().getFullYear()
 console.log(currentYear)
 
 const data = [
+    {
+        contract: "0x471244ab50A72BC47644F0b87295f3dD9f39Db56",
+        title: "Kabale und Liebe",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
+    {
+        contract: "0x1c476beD5dA8466DAB394925AB81369CF9B41c3D",
+        title: "Agnes Grey",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
+    {
+        contract: "0xdB33e713227B8b472Bd8C85FfFe1Be17b5850a8e",
+        title: "Beasts, Men and Gods",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
+    {
+        contract: "0x55bA27a617559B68a27D5E209602719eB4A13a49",
+        title: "Hard Times",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
+    {
+        contract: "0x7e5f2D8f41775c295FFD21ec3a203E7c2F23185c",
+        title: "Ethan Frome",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
+    {
+        contract: "0x328c069b0130f1Af06bDc7677A8fB8213cE433D9",
+        title: "Riders of the Purple Sage",
+        creation: "1/23/2025",
+        claiming_expire: "2/16/2025"
+    },
     {
         contract: "0x20439791b288d489aA3413E14C4C7F199Ed2DbB0",
         title: "This Crowded Earth",
