@@ -1,8 +1,8 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "1/23/2025",
-//     claiming_expire: "2/16/2025"
+//     creation: "1/31/2025",
+//     claiming_expire: "2/23/2025"
 // },
 
 const currentYear = new Date().getFullYear()
@@ -10,6 +10,42 @@ const currentYear = new Date().getFullYear()
 console.log(currentYear)
 
 const data = [
+    {
+        contract: "0x59589CD6052019d227cB1452ADc3795b914fCF8A",
+        title: "The Hound of the Baskervilles",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
+    {
+        contract: "0x4EF72c64107359142FfCe279C1244Ded914def7D",
+        title: "The Vanishing Man",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
+    {
+        contract: "0x7b0b844648809DaF50C48156aEe9876246880FAF",
+        title: "The Thirty-Nine Steps",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
+    {
+        contract: "0xFA9a4018Ab56ff3f58E32072894578D88E5C624e",
+        title: "The House of Mirth",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
+    {
+        contract: "0x5267Fb5b02A6388ECC82e3E122bFee2f25B93463",
+        title: "The Children of Odin",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
+    {
+        contract: "0x2cF1169dC31F7D1F58Eb30Ffb7655dDf5563b7bb",
+        title: "Jennie Gerhardt",
+        creation: "1/31/2025",
+        claiming_expire: "2/23/2025"
+    },
     {
         contract: "0x471244ab50A72BC47644F0b87295f3dD9f39Db56",
         title: "Kabale und Liebe",
