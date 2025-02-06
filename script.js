@@ -1,8 +1,8 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "1/31/2025",
-//     claiming_expire: "2/23/2025"
+//     creation: "2/6/2025",
+//     claiming_expire: "3/3/2025"
 // },
 
 const currentYear = new Date().getFullYear()
@@ -10,6 +10,60 @@ const currentYear = new Date().getFullYear()
 console.log(currentYear)
 
 const data = [
+{
+    contract: "0xE359a4bEc4A16b1438a4B74b44e531c9bd5FB00e",
+    title: "The Valley of Fear",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},   
+{
+    contract: "0xf7e45D50000FA5600830F831490259AF3F8dC15f",
+    title: "The Science of Getting Rich",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},
+{
+    contract: "0xEe88E78799A78A6c6D8f0567B38Fa24c334F348b",
+    title: "A Room with a View",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},   
+{
+    contract: "0xcc879F197F62C5e57Ff3114CB6CA075FC9A4306F",
+    title: "Discource on Inequality",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},   
+{
+    contract: "0xd85F30Aa96B4f07cDeF3Ea3B342580FC48f01276",
+    title: "The Sea Wolf",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},
+{
+    contract: "0xFa095fAe4Ab1841B3D04648B46AFC8b2F3F6773E",
+    title: "The Wood Beyond the World",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},   
+{
+    contract: "0x47F404C5044cA331c42E3726bcEfc8DB353B5f77",
+    title: "Common Sense",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},
+{
+    contract: "0xc517C00637A69f6F3eB50bdBc574b609c1Bc3bA5",
+    title: "A Voyage to Arcturus",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},   
+{
+    contract: "0xF19B7bB07B98b9C1301B9F7E15756246BC66e41b",
+    title: "The Path to Prosperity",
+    creation: "2/6/2025",
+    claiming_expire: "3/3/2025"
+},
     {
         contract: "0x59589CD6052019d227cB1452ADc3795b914fCF8A",
         title: "The Hound of the Baskervilles",
