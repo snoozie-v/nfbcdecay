@@ -17,12 +17,6 @@ const data = [
     claiming_expire: "3/10/2025"
 },
 {
-    contract: "0x9D29C7F1Eb4Cf7D62801b7E41a11850DeAC12d0F",
-    title: "Wings and the Child",
-    creation: "2/13/2025",
-    claiming_expire: "3/10/2025"
-},
-{
     contract: "0xAB53c4c067CF8A268D2450Acc5227722114B8d47",
     title: "The Adventures of Tom Sawyer",
     creation: "2/13/2025",
