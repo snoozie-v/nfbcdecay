@@ -1,8 +1,8 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "2/6/2025",
-//     claiming_expire: "3/3/2025"
+//     creation: "2/13/2025",
+//     claiming_expire: "3/10/2025"
 // },
 
 const currentYear = new Date().getFullYear()
@@ -10,6 +10,60 @@ const currentYear = new Date().getFullYear()
 console.log(currentYear)
 
 const data = [
+{
+    contract: "0x0f7F02d459270FC288F8a0C28a8dA624BB11Dac5",
+    title: "The Sign of the Four",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0x9D29C7F1Eb4Cf7D62801b7E41a11850DeAC12d0F",
+    title: "Wings and the Child",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0xAB53c4c067CF8A268D2450Acc5227722114B8d47",
+    title: "The Adventures of Tom Sawyer",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0xF3B07f410BBFA1537651E58A0d80F690cd3826BC",
+    title: "Up from Slavery",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0xB1145391c4D6036C0f7330fb5FE29346dff48fEa",
+    title: "Kenilworth",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0x69C56BB55105ca3bd7305730A784989e20f4bA42",
+    title: "Meditations on first Philosophy",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0x4EDe2ae390fD26bA0b83C42Ab911B89FB64872C6",
+    title: "The White Company",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0x546999f3099928E848e83481520f2DF0b76E49D9",
+    title: "The British Barbarians",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
+{
+    contract: "0x5E9510Cf20c2C34fE917e547d935a776B5cee1C9",
+    title: "The Golden Bough",
+    creation: "2/13/2025",
+    claiming_expire: "3/10/2025"
+},
 {
     contract: "0xE359a4bEc4A16b1438a4B74b44e531c9bd5FB00e",
     title: "The Valley of Fear",
