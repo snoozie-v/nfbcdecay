@@ -1,8 +1,8 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "2/13/2025",
-//     claiming_expire: "3/10/2025"
+//     creation: "2/20/2025",
+//     claiming_expire: "3/17/2025"
 // },
 
 const currentYear = new Date().getFullYear()
@@ -10,6 +10,60 @@ const currentYear = new Date().getFullYear()
 console.log(currentYear)
 
 const data = [
+{
+    contract: "0x0491D43fD368eb2ACDA982C7a70D34fB1Aa422f3",
+    title: "The Woodlanders",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+{
+    contract: "0x6BA896948bd052F37cAb18e1cB0C9EE6B6bA8A13",
+    title: "The Leavensworth Case",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+{
+    contract: "0x789e664BDd8D1cF674E942EF61F401309d24C16d",
+    title: "The Jewel of Seven Stars",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+}, 
+{
+    contract: "0x102B368fE308c18e46A79B6c340263B737F97873",
+    title: "The Idiot Part 1 and 2",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+{
+    contract: "0x3b456834af477ECA07Ef73b15bBD08A1dB7D65FE",
+    title: "Wounds in the Rain War Stories",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+{
+    contract: "0x17a5c37745106f0B59da3fe17eE50ef5Be8174B6",
+    title: "After London, Wild England",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+}, 
+{
+    contract: "0xC07bCb8EEa993c7Da61A7F7f37f2220894f5Ff22",
+    title: "The First Men in the Moon",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+    {
+    contract: "0xA90E22859d0049f31387Df2220d5e4A991613323",
+    title: "The Prince and the Pauper",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},
+{
+    contract: "0x92D2790f27Aa82fed98a89A1797853Ea763c80C5",
+    title: "Het Late Leven",
+    creation: "2/20/2025",
+    claiming_expire: "3/17/2025"
+},    
 {
     contract: "0x0f7F02d459270FC288F8a0C28a8dA624BB11Dac5",
     title: "The Sign of the Four",
