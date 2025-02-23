@@ -52,3 +52,21 @@ a {
   .data-item li {
     margin-bottom: 5px;
   }
+
+  #controls {
+    margin-bottom: 20px;
+}
+#controls label {
+    margin-right: 10px;
+}
+#search-input {
+    padding: 5px;
+    width: 200px;
+}
+.data-item {
+    margin: 20px 0;
+}
+.data-item ul {
+    list-style-type: none;
+    padding: 0;
+}
