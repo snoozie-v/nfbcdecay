@@ -1,12 +1,48 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "2/20/2025",
-//     claiming_expire: "3/17/2025"
+//     creation: "2/26/2025",
+//     claiming_expire: "3/24/2025"
 // },
 
 
 const data = [
+    {
+        contract: "0x2fEaA1569A3278d5339feC3350B477DA5100b84C",
+        title: "Tombstone: An Iliad of the Southwest",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },
+    {
+        contract: "0x750625059dCEf380659Ce1a3AE0565FDA6a0F385",
+        title: "The Adventures of Huckleberry Finn",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },
+    {
+        contract: "0xEB9e36ff0843dEAf28ff8cdF5e32ccF32E894CdF",
+        title: "Steppenwolf",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },
+    {
+        contract: "0x11C6EdF8f628c5488449abc7a67924d5543fB0ef",
+        title: "A Pair of Blue Eyes",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },    
+    {
+        contract: "0x82aBB22A65aed1c2495805179993F5cf6F3725b3",
+        title: "De Kleine Johannes",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },
+    {
+        contract: "0x2e5f088B590fE8054c4B735501Bbc8c4d063f322",
+        title: "An Iron Will",
+        creation: "2/26/2025",
+        claiming_expire: "3/24/2025"
+    },
     {
         contract: "0x0491D43fD368eb2ACDA982C7a70D34fB1Aa422f3",
         title: "The Woodlanders",
