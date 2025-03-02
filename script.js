@@ -21,10 +21,12 @@ function displayData(showExpired = false, searchQuery = '') {
   }
 
   if (searchQuery.trim() !== '') {
-    // Filter by search query (case-insensitive)
-    filteredBooks = filteredBooks.filter(item =>
-      item.title.toLowerCase().includes(searchQuery.toLowerCase())
-    );
+    // Filter by search query (case-insensitive) in either title or author
+    filteredBooks = filteredBooks.filter(item => {
+      const titleMatch = item.title.toLowerCase().includes(searchQuery.toLowerCase());
+      const authorMatch = item.author && item.author.toLowerCase().includes(searchQuery.toLowerCase());
+      return titleMatch || authorMatch;
+    });
   }
 
   // Display the filtered books
@@ -33,6 +35,7 @@ function displayData(showExpired = false, searchQuery = '') {
     itemDiv.className = 'data-item';
     itemDiv.innerHTML = `
       <h2><a href="https://vechainstats.com/account/${item.contract}">${item.title}</a></h2>
+      ${item.author ? `<h4><strong>Author:</strong> ${item.author}</h4>`: ''}
       <ul>
         ${item.creation ? `<li><strong>Creation Date:</strong> ${item.creation}</li>` : ''}
         ${item.tier1_final ? `<li><strong>Tier 1 Final Day:</strong> ${item.tier1_final}</li>` : ''}
