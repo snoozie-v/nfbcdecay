@@ -70,3 +70,11 @@ a {
     list-style-type: none;
     padding: 0;
 }
+
+.data-item h2 {
+  margin: 0 0 10px;
+  max-width: 90%;           /* Ensures it doesn't exceed the parent container */
+  white-space: nowrap;       /* Prevents text from wrapping to the next line */
+  overflow: hidden;          /* Hides any overflow text */
+  text-overflow: ellipsis;   /* Adds the "..." at the end of truncated text */
+}

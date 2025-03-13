@@ -34,8 +34,8 @@ function displayData(showExpired = false, searchQuery = '') {
     const itemDiv = document.createElement('div');
     itemDiv.className = 'data-item';
     itemDiv.innerHTML = `
-      <h2><a href="https://vechainstats.com/account/${item.contract}">${item.title}</a></h2>
-      ${item.author ? `<h4><strong>Author:</strong> ${item.author}</h4>`: ''}
+      <h2 title="${item.title}"><a href="https://vechainstats.com/account/${item.contract}">${item.title}</a></h2>
+      ${item.author ? `<h4><strong>Author:</strong> ${item.author}</h4>` : ''}
       <ul>
         ${item.creation ? `<li><strong>Creation Date:</strong> ${item.creation}</li>` : ''}
         ${item.tier1_final ? `<li><strong>Tier 1 Final Day:</strong> ${item.tier1_final}</li>` : ''}
@@ -47,7 +47,7 @@ function displayData(showExpired = false, searchQuery = '') {
       <h3><a href="https://nfbclub.marketplace.vechain.org/collections/${item.contract}">MaaS Link</h3>
     `;
     dataContainer.appendChild(itemDiv);
-  });
+});
 
   // If no books match the search, display a message
   if (filteredBooks.length === 0) {

@@ -1,63 +1,115 @@
 // {
 //     contract: "",
 //     title: "",
-//     creation: "3/5/2025",
-//     claiming_expire: "3/31/2025"
+//     author: "",
+//     creation: "3/12/2025",
+//     claiming_expire: "4/7/2025"
 // },
 
 
 const data = [
 {
+    contract: "0xbF141D82cB1a8ACC131281aabe56A6c048795e69",
+    title: "The Master of Destiny",
+    author: "James Allen",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+  {
+    contract: "0x1B23C336da02Ea93d8EECb98aCf3774CF8b49F13",
+    title: "The House on the Borderland",
+    author: "William Hope Hodgson",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+  {
+    contract: "0xC7D5D9C82585a0333BCa1F82eEDC01290879ba60",
+    title: "Carmilla",
+    author: "Joseph Sheridan Le Fanu",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+  {
+    contract: "0x6f42086a8d830D5c7F5C4CEe229C56d82dB81d41",
+    title: "Thirty Years a Slave",
+    author: "Louis Hughes",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+  {
+    contract: "0xF6a5C72A398a1f01110744d1A91d5DC6Fc4d4589",
+    title: "The Great God Pan",
+    author: "Arthur Machen",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+  {
+    contract: "0x6e8044F5c5EA4a3E6897284adD8e92c513f252E4",
+    title: "Haste & Waste The Young Pilot of Lake Champlain",
+    author: "William Taylor Adams",
+    creation: "3/12/2025",
+    claiming_expire: "4/7/2025"
+},
+{
     contract: "0x7Ec55d332988c425F07F9487beA6E22C9FC9Adb9",
     title: "Michael Kohlhaas",
+    author: "Heinrich Von Kleist",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0x22150D2B33fe298d46A6352929ca6C596D0e931b",
     title: "The Sun Also Rises",
+    author: "Ernest Hemingway",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0x2025634CC57Ca839D08cC89469835AccEA020B67",
     title: "The House of the Dead",
+    author: "Fyodor Dostoyevsky",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0x9319a0cf92DdE9F8600844fb0D5842f88e27C776",
     title: "The Moon Pool",
+    author: "Abraham Merritt",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
     {
     contract: "0x095EED4B480134e979DbF014B4887b19A005E6c7",
     title: "The Horla",
+    author: "Guy de Maupassant",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
     {
     contract: "0xd69Aa39EF3F8FAF336c69f39a1aFfDA1033fF07c",
     title: "The Hill of Dreams",
+    author: "Arthur Machen",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0x9cC919421937B9aFdCed3f17046c6fF1eaD70dAa",
     title: "He Can Who Thinks He Can",
+    author: "Orison Swett Marden",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0x7Fd1807245602f5F584D8cC36fBd80aFd8aD17F8",
     title: "Cedric Forester",
+    author: "Bernard Gay Marshall",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
 {
     contract: "0xC4C81F7C6C1960cA5E0076b78593Bad5236496b0",
     title: "The Dark Frigate",
+    author: "Charles Boardman Hawes",
     creation: "3/5/2025",
     claiming_expire: "3/31/2025"
 },
