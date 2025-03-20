@@ -2,13 +2,76 @@
 //     contract: "",
 //     title: "",
 //     author: "",
-//     creation: "3/12/2025",
-//     claiming_expire: "4/7/2025"
+//     creation: "3/19/2025",
+//     claiming_expire: "4/14/2025"
 // },
 
 
 const data = [
 {
+    contract: "0x4e6AAD998039aF08238A5Bb4bA5eA522e0241E16",
+    title: "Howards End",
+    author: "E.M. Forster",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0x0633B72AA89cf40547595786a4C461D10E2ceAb7",
+    title: "Max Carrados",
+    author: "Ernest Bramah",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0x4B0fA346Db072C564906E734bdF384cf376Ae4F0",
+    title: "Anything You Can Do...",
+    author: "Randell Garrett",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+{
+    contract: "0x101DaD798c2684c17bf2fF15E4003cCcA10E9495",
+    title: "Its Like This, Cat",
+    author: "Emily Neville",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0x7C952872643aEaD717DE6A345d31D2B09FAf6FAd",
+    title: "The Avenger",
+    author: "E. Phillips Oppenheim",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0x4C09C9cE7B1F8d920f889fCB02324dAe23E2718a",
+    title: "Living Alone",
+    author: "Stella Benson",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0x81188eA1Bc90468A4c3590d9254c358708505239",
+    title: "The Magic City",
+    author: "E. Nesbit",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0xD8466f6eB56FAa263835E9796B4Bc1898E700656",
+    title: "D-99",
+    author: "H.B. Fyfe",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
+    contract: "0xE213bBd7CAdfB4D53c5C1f8905B2581EB44Fb517",
+    title: "The Duel",
+    author: "Anton Chekhov",
+    creation: "3/19/2025",
+    claiming_expire: "4/14/2025"
+},
+  {
     contract: "0xbF141D82cB1a8ACC131281aabe56A6c048795e69",
     title: "The Master of Destiny",
     author: "James Allen",
