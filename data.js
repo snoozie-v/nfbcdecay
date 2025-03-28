@@ -7,7 +7,56 @@
 // },
 
 
+// '0x74D55Ebed1392ae64f371eFC8947e0C45b59d61D',//STC
+// '0xc68d8dfC50193f36aE60622395001EA8FE875224',//THW
+// '0xDb92c58429C65e9900a21B98B53b21ef3C135f62',//TSP
+// '0xf25E42b0B9c04e69cC5821Eb1681Ed3beACdEeE9',//IFTI
+// '0xA71ABa0C4BbB635D099b878aD121F5D8bce83879',//TTS
+// '0x83Ff00c859D96cAAf472C040155221782570EFDb',//TVW
+
 const data = [
+{
+    contract: "0x74D55Ebed1392ae64f371eFC8947e0C45b59d61D",
+    title: "Smoky the Cowhorse",
+    author: "Will James",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
+{
+    contract: "0xc68d8dfC50193f36aE60622395001EA8FE875224",
+    title: "The Hampdenshire Wonder",
+    author: "J. D. Beresford",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
+  {
+    contract: "0xDb92c58429C65e9900a21B98B53b21ef3C135f62",
+    title: "The Shining Pyramid",
+    author: "Arthur Machen",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
+{
+    contract: "0xf25E42b0B9c04e69cC5821Eb1681Ed3beACdEeE9",
+    title: "Invaders from the Infinite",
+    author: "John Wood Campbell Jr",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
+  {
+    contract: "0xA71ABa0C4BbB635D099b878aD121F5D8bce83879",
+    title: "The Three Sisters",
+    author: "May Sinclair",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
+{
+    contract: "0x83Ff00c859D96cAAf472C040155221782570EFDb",
+    title: "The Vicar of Wakfield",
+    author: "Oliver Goldsmith",
+    creation: "3/27/2025",
+    claiming_expire: "4/21/2025"
+},
 {
     contract: "0x4e6AAD998039aF08238A5Bb4bA5eA522e0241E16",
     title: "Howards End",
