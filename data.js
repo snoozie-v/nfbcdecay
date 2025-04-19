@@ -8,6 +8,27 @@
 
 
 const data = [
+{
+    contract: "0xF434D78dA783b8C3bb7FCabF73504A6905D5F743",
+    title: "Utopia",
+    author: "Thomas More",
+    creation: "4/2/25",
+    claiming_expire: "5/12/25"
+},
+{
+    contract: "0xBc36Af8815718A023Bd4f7Fd35952831A9E2AbD2",
+    title: "The Shuttle",
+    author: "Frances Hodgson Burnett",
+    creation: "5/4/25",
+    claiming_expire: "5/12/25"
+},
+{
+    contract: "0xB75C4A7Db6bcc01b042EC0455a8113192fc10215",
+    title: "The Haunted Book Shop",
+    author: "Christopher Morley",
+    creation: "4/2/25",
+    claiming_expire: "5/12/25"
+},  
   {
   contract: "0xADc8319DE2420832120D9B167431D38B9eb893ca",
   title: "The Lifted Veil",
