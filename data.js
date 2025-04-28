@@ -6,8 +6,49 @@
 //     claiming_expire: ""
 // },
 
-
 const data = [
+{
+    contract: "0x4d1A443301c0b66aB7aE2A55BA8e28Aa98dC99aB",
+    title: "The Death of Society a Novel of Tomorrow",
+    author: "Florence Roma Muir Wilson",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
+{
+    contract: "0xEDaB821c296a107E8D2Ecd03acAb3De05dAe21C4",
+    title: "Fathers and Sons",
+    author: "Ivan Turgenev",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
+{
+    contract: "0x41d44D180C24563D7E6ee89D33628151652F2B59",
+    title: "No More Parades",
+    author: "Ford Madox Ford",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
+{
+    contract: "0x9640018a409fa5B575C57734CC9e59b47d761277",
+    title: "The Mysterious Stranger",
+    author: "Mark Twain",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
+{
+    contract: "0x25F841Da7C01285D737F5B7424cE9c04c2b98E1d",
+    title: "The Oakdale Affair",
+    author: "Edgar Rice Burroughs",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
+{
+    contract: "0x690722E2ff44011402de125B9C832B19A013De50",
+    title: "As We Forgive Them",
+    author: "William Le Queux",
+    creation: "4/22/2025",
+    claiming_expire: "5/19/2025"
+},
 {
     contract: "0xF434D78dA783b8C3bb7FCabF73504A6905D5F743",
     title: "Utopia",
