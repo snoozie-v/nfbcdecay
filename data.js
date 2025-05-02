@@ -6,7 +6,30 @@
 //     claiming_expire: ""
 // },
 
+
+
 const data = [
+{
+    contract: "0xd049a90ff11bAfcCe8e02a150861Bb90663C15b5",
+    title: "The Age Of Innocence",
+    author: "Edith Wharton",
+    creation: "5/1/2025",
+    claiming_expire: "5/26/25"
+},
+{
+    contract: "0x03472FAac8941F51ea32c424E0707e31E882DBA6",
+    title: "The Beast in The Jungle",
+    author: "Henry James",
+    creation: "5/1/2025",
+    claiming_expire: "5/26/25"
+},
+{
+    contract: "0x6aF6f1a11c8be845419C250A2B918a6D36E0f70E",
+    title: "The Age of Elizabeth",
+    author: "Mandell Creighton",
+    creation: "5/1/2025",
+    claiming_expire: "5/26/25"
+},
 {
     contract: "0x4d1A443301c0b66aB7aE2A55BA8e28Aa98dC99aB",
     title: "The Death of Society a Novel of Tomorrow",
