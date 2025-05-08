@@ -9,6 +9,48 @@
 
 
 const data = [
+ {
+    contract: "0xA2A59C6Ac25539FcB9dCdE3A0a0b72eFBC7469cb",
+    title: "The Book of Evelyn",
+    author: "Geraldine Bonner",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},
+{
+    contract: "0xD299D0C7F705f518C400BDbA0B64C083E39791Ef",
+    title: "Snow-Blind",
+    author: "Katharine Newlin Burt",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},
+{
+    contract: "0x0AcCc5aB09A403168B53110D4afB6647Ca393D55",
+    title: "The Cat of Bubastes",
+    author: "G. A. Henty",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},
+{
+    contract: "0xd7b7b8F1a21ffA7abf28404152842026343AC535",
+    title: "The Double Traitor",
+    author: "E. Phillips Oppenheim",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},
+{
+    contract: "0x26f3ff13918F306CBbcF687A0BfC4c2207888Fc5",
+    title: "No Man's Land",
+    author: "Sapper",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},
+{
+    contract: "0x7D2e00591E63def3017445aAc750bfB8d996d55D",
+    title: "A Lost Lady",
+    author: "Willa Cather",
+    creation: "5/7/2025",
+    claiming_expire: "6/2/2025"
+},  
 {
     contract: "0xd049a90ff11bAfcCe8e02a150861Bb90663C15b5",
     title: "The Age Of Innocence",
