@@ -9,6 +9,27 @@
 
 
 const data = [
+{
+    contract: "0x87d502a11676B9391fB9cA99e02aE2D4069eE020",
+    title: "American Fairy Tales",
+    author: "L Frank Baum",
+    creation: "5/16/2025",
+    claiming_expire: "6/9/2025"
+},
+{
+    contract: "0x42B7b9B2DB4C04c072EC7ecc29f353116e9052D0",
+    title: "The Branding Iron",
+    author: "Katharine Newlin Burt",
+    creation: "5/16/2025",
+    claiming_expire: "6/9/2025"
+},
+{
+    contract: "0x7a7741D5aC99516B5285dF010e408150281ba51d",
+    title: "The Ambassadors",
+    author: "Henry James",
+    creation: "5/16/2025",
+    claiming_expire: "6/9/2025"
+},
  {
     contract: "0xA2A59C6Ac25539FcB9dCdE3A0a0b72eFBC7469cb",
     title: "The Book of Evelyn",
