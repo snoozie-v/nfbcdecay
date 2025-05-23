@@ -6,9 +6,49 @@
 //     claiming_expire: ""
 // },
 
-
-
 const data = [
+{
+    contract: "0x0C8bb443942A68f8504139F0a38C8fa557a0Fa62",
+    title: "The Dragon and the Raven",
+    author: "G.A. Henty",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},
+{
+    contract: "0x0df1291Bc40304F898C3462e70C0cdacAB26653a",
+    title: "The Birthplace",
+    author: "Henry James",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},
+{
+    contract: "0xd14AE50f14F8E7Dc6c493e78A6a93a7f5830c47D",
+    title: "Madame Bovary",
+    author: "Gustave Flaubert",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},
+{
+    contract: "0x0289a65a5bB570DDD488eaeDC1C30aA14f31569F",
+    title: "Youth",
+    author: "Leo Tolstoy",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},
+{
+    contract: "0x56056617FEe67DbA0ba838eEf83eed56ca8E5022",
+    title: "The Ladies Paradise",
+    author: "Emile Zola",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},
+{
+    contract: "0x15258164F0b579165bd6F3c9A34c3a50E3E5882e",
+    title: "Adrift In New York",
+    author: "Horatio Alger Jr.",
+    creation: "5/22/2025",
+    claiming_expire: "6/16/2025"
+},  
 {
     contract: "0x87d502a11676B9391fB9cA99e02aE2D4069eE020",
     title: "American Fairy Tales",
