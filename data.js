@@ -5,8 +5,50 @@
 //     creation: "",
 //     claiming_expire: ""
 // },
+// {
+//     contract: "0x4E546014D97f516A0091c395Cc3f36DccA5E4958",
+//     title: "Varieties of Religious Experience",
+//     author: "William James",
+//     creation: "5/29/2025",
+//     claiming_expire: "6/23/2025"
+// },
+// {
+//     contract: "0x7d8BDaE5894B72C2A9dE0f1F5F899cdfbFC937C9",
+//     title: "The American",
+//     author: "Henry James",
+//     creation: "5/29/2025",
+//     claiming_expire: "6/23/2025"
+// },
+// {
+//     contract: "0xD6775BA805F239b7F358d4665ec9640F91f6D4C6",
+//     title: "A Room of One's Own",
+//     author: "Virginia Woolf",
+//     creation: "5/29/2025",
+//     claiming_expire: "6/23/2025"
+// },
 
 const data = [
+{
+    contract: "0x4E546014D97f516A0091c395Cc3f36DccA5E4958",
+    title: "Varieties of Religious Experience",
+    author: "William James",
+    creation: "5/29/2025",
+    claiming_expire: "6/23/2025"
+},
+{
+    contract: "0x7d8BDaE5894B72C2A9dE0f1F5F899cdfbFC937C9",
+    title: "The American",
+    author: "Henry James",
+    creation: "5/29/2025",
+    claiming_expire: "6/23/2025"
+},
+{
+    contract: "0xD6775BA805F239b7F358d4665ec9640F91f6D4C6",
+    title: "A Room of One's Own",
+    author: "Virginia Woolf",
+    creation: "5/29/2025",
+    claiming_expire: "6/23/2025"
+},
 {
     contract: "0x0C8bb443942A68f8504139F0a38C8fa557a0Fa62",
     title: "The Dragon and the Raven",
