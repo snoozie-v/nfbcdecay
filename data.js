@@ -5,29 +5,53 @@
 //     creation: "",
 //     claiming_expire: ""
 // },
-// {
-//     contract: "0x4E546014D97f516A0091c395Cc3f36DccA5E4958",
-//     title: "Varieties of Religious Experience",
-//     author: "William James",
-//     creation: "5/29/2025",
-//     claiming_expire: "6/23/2025"
-// },
-// {
-//     contract: "0x7d8BDaE5894B72C2A9dE0f1F5F899cdfbFC937C9",
-//     title: "The American",
-//     author: "Henry James",
-//     creation: "5/29/2025",
-//     claiming_expire: "6/23/2025"
-// },
-// {
-//     contract: "0xD6775BA805F239b7F358d4665ec9640F91f6D4C6",
-//     title: "A Room of One's Own",
-//     author: "Virginia Woolf",
-//     creation: "5/29/2025",
-//     claiming_expire: "6/23/2025"
-// },
+
+
+
 
 const data = [
+{
+    contract: "0x18Cca585722B0a86f88412C169a07B66C58bA3c4",
+    title: "The Death of Ivan Ilyitch",
+    author: "Leo Tolstoy",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
+{
+    contract: "0x9873f9004946e75dc1847EDdEb87d383b4647E7C",
+    title: "The Red Laugh",
+    author: "Leonid Nikolayevich Andreyev",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
+{
+    contract: "0x7f829F54904cA239feDCf381820230150ab74ECA",
+    title: "Boyhood",
+    author: "Leo Tolstoy",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
+{
+    contract: "0x4e0Aba3620C5bBC30eC466495A4645b1F3e96c3A",
+    title: "Salome and The Head",
+    author: "E. Nesbit",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
+{
+    contract: "0xe9D47bb4739C143B9835Ae4BB042d6da9B46e401",
+    title: "Anything Once",
+    author: "Isabel Osrander",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
+{
+    contract: "0xa19Be34D7C6FdE45517afC2c8D4c08C8FC91b54e",
+    title: "The White Feather",
+    author: "P.G. Wodehouse",
+    creation: "6/5/2025",
+    claiming_expire: "6/30/2025"
+},
 {
     contract: "0x4E546014D97f516A0091c395Cc3f36DccA5E4958",
     title: "Varieties of Religious Experience",
