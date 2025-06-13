@@ -9,8 +9,50 @@
 //test
 
 
+// {
+//     contract: "0x2A9a5A0C06Ae26F6ca99e10a4Ce4d230464d7DB4",
+//     title: "Max Havelaar",
+//     author: "P.G. Wodehouse",
+//     creation: "6/12/2025",
+//     claiming_expire: "7/7/2025"
+// },
+// {
+//     contract: "0x32FF27EE70a1ED5d2d652AF9cb95360F4E2E9ad5",
+//     title: "Hannibal",
+//     author: "George Philip Baker",
+//     creation: "6/12/2025",
+//     claiming_expire: "7/7/2025"
+// },
+// {
+//     contract: "0xD0f13f1197Da2fcD4d9ddcC091511Ea3A9BE36AB",
+//     title: "The Adventures of Gerard",
+//     author: "Sir Arthur Conan Doyle",
+//     creation: "6/12/2025",
+//     claiming_expire: "7/7/2025"
+// },
 
 const data = [
+{
+    contract: "0x2A9a5A0C06Ae26F6ca99e10a4Ce4d230464d7DB4",
+    title: "Max Havelaar",
+    author: "P.G. Wodehouse",
+    creation: "6/12/2025",
+    claiming_expire: "7/7/2025"
+},
+{
+    contract: "0x32FF27EE70a1ED5d2d652AF9cb95360F4E2E9ad5",
+    title: "Hannibal",
+    author: "George Philip Baker",
+    creation: "6/12/2025",
+    claiming_expire: "7/7/2025"
+},
+{
+    contract: "0xD0f13f1197Da2fcD4d9ddcC091511Ea3A9BE36AB",
+    title: "The Adventures of Gerard",
+    author: "Sir Arthur Conan Doyle",
+    creation: "6/12/2025",
+    claiming_expire: "7/7/2025"
+},
 {
     contract: "0x18Cca585722B0a86f88412C169a07B66C58bA3c4",
     title: "The Death of Ivan Ilyitch",
