@@ -8,31 +8,94 @@
 
 //test
 
+// {
+//     contract: "0x09743E8641C74bAF9057Bd1b3B3E043b5eDd6499",
+//     title: Richard III Makers of History series",
+//     author: "Jacob Abbott",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
+// {
+//     contract: "0xFB9F05d35EeFE97a41242dd930263db7cABd51A7",
+//     title: "Billy Budd",
+//     author: "Herman Melville",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
+// {
+//     contract: "0x077C5983856520fD2f3e5217a8f6B6e42eFB9663",
+//     title: "Childhood",
+//     author: "Leo Tolstoy",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
+// {
+//     contract: "0x312a7371cC5394A4eB7c8eB44966764dC6560c14",
+//     title: "A Farewell to Arms",
+//     author: "Ernest Hemingway",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
+// {
+//     contract: "0xBa975C83FBEF4Bd94d69fA7FfEfA99425dEd8Ffb",
+//     title: "Red Harvest",
+//     author: "",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
+// {
+//     contract: "0x535D82f2CE3707C7E4294457a58c5C601F4DD558",
+//     title: "Your Invisible Power ",
+//     author: "Genevieve Behrend",
+//     creation: "6/18/2025",
+//     claiming_expire: "7/14/2025"
+// },
 
-// {
-//     contract: "0x2A9a5A0C06Ae26F6ca99e10a4Ce4d230464d7DB4",
-//     title: "Max Havelaar",
-//     author: "P.G. Wodehouse",
-//     creation: "6/12/2025",
-//     claiming_expire: "7/7/2025"
-// },
-// {
-//     contract: "0x32FF27EE70a1ED5d2d652AF9cb95360F4E2E9ad5",
-//     title: "Hannibal",
-//     author: "George Philip Baker",
-//     creation: "6/12/2025",
-//     claiming_expire: "7/7/2025"
-// },
-// {
-//     contract: "0xD0f13f1197Da2fcD4d9ddcC091511Ea3A9BE36AB",
-//     title: "The Adventures of Gerard",
-//     author: "Sir Arthur Conan Doyle",
-//     creation: "6/12/2025",
-//     claiming_expire: "7/7/2025"
-// },
 
 const data = [
 {
+    contract: "0x09743E8641C74bAF9057Bd1b3B3E043b5eDd6499",
+    title: "Richard III Makers of History",
+    author: "Jacob Abbott",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+{
+    contract: "0xFB9F05d35EeFE97a41242dd930263db7cABd51A7",
+    title: "Billy Budd",
+    author: "Herman Melville",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+{
+    contract: "0x077C5983856520fD2f3e5217a8f6B6e42eFB9663",
+    title: "Childhood",
+    author: "Leo Tolstoy",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+{
+    contract: "0x312a7371cC5394A4eB7c8eB44966764dC6560c14",
+    title: "A Farewell to Arms",
+    author: "Ernest Hemingway",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+{
+    contract: "0xBa975C83FBEF4Bd94d69fA7FfEfA99425dEd8Ffb",
+    title: "Red Harvest",
+    author: "Dashiell Hammett",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+{
+    contract: "0x535D82f2CE3707C7E4294457a58c5C601F4DD558",
+    title: "Your Invisible Power ",
+    author: "Genevieve Behrend",
+    creation: "6/18/2025",
+    claiming_expire: "7/14/2025"
+},
+  {
     contract: "0x2A9a5A0C06Ae26F6ca99e10a4Ce4d230464d7DB4",
     title: "Max Havelaar",
     author: "P.G. Wodehouse",
