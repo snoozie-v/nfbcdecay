@@ -6,53 +6,35 @@
 //     claiming_expire: ""
 // },
 
-//test
-
-// {
-//     contract: "0x09743E8641C74bAF9057Bd1b3B3E043b5eDd6499",
-//     title: Richard III Makers of History series",
-//     author: "Jacob Abbott",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-// {
-//     contract: "0xFB9F05d35EeFE97a41242dd930263db7cABd51A7",
-//     title: "Billy Budd",
-//     author: "Herman Melville",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-// {
-//     contract: "0x077C5983856520fD2f3e5217a8f6B6e42eFB9663",
-//     title: "Childhood",
-//     author: "Leo Tolstoy",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-// {
-//     contract: "0x312a7371cC5394A4eB7c8eB44966764dC6560c14",
-//     title: "A Farewell to Arms",
-//     author: "Ernest Hemingway",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-// {
-//     contract: "0xBa975C83FBEF4Bd94d69fA7FfEfA99425dEd8Ffb",
-//     title: "Red Harvest",
-//     author: "",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-// {
-//     contract: "0x535D82f2CE3707C7E4294457a58c5C601F4DD558",
-//     title: "Your Invisible Power ",
-//     author: "Genevieve Behrend",
-//     creation: "6/18/2025",
-//     claiming_expire: "7/14/2025"
-// },
-
-
 const data = [
+{
+    contract: "0xECC1E5833817FE61C9e36dB960Ac6E92f666BDa3",
+    title: "The Messiah of the Cylinder",
+    author: "Genevieve Behrend",
+    creation: "6/25/2025",
+    claiming_expire: "07/14/2025"
+},
+{
+    contract: "0x04814B4820985A3047b8D816A8d72122e8FF3594",
+    title: "Liberation: Marines in the Recapture of Guam",
+    author: "Cyril J. O'Brien",
+    creation: "6/25/2025",
+    claiming_expire: "07/14/2025"
+},
+{
+    contract: "0xE13744A31BFe1dbD868ED31C0E99589bDB03d78F",
+    title: "Among the Night People",
+    author: "Clara Dillingham Pierson",
+    creation: "6/25/2025",
+    claiming_expire: "07/14/2025"
+},
+{
+    contract: "0x7626a876dfe51dA50E9dBA9f6E7F05F46c2F5534",
+    title: "The Menace From Below",
+    author: "Harl Vincent",
+    creation: "6/25/2025",
+    claiming_expire: "07/14/2025"
+},
 {
     contract: "0x09743E8641C74bAF9057Bd1b3B3E043b5eDd6499",
     title: "Richard III Makers of History",
