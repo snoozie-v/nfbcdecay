@@ -8,6 +8,27 @@
 
 const data = [
 {
+    contract: "0x175E215edDCc96402C57Ef5C2AaDeC3cE8C1B46C",
+    title: "The City at World's End",
+    author: "Edmond Hamilton",
+    creation: "7/2/2025",
+    claiming_expire: "7/28/2025"
+},
+{
+    contract: "0xb59e734573fA25a09B67D580c8026Afde1F8A3ce",
+    title: "The Marriage Contract",
+    author: "Honre de Balzac",
+    creation: "7/2/2025",
+    claiming_expire: "7/28/2025"
+},
+{
+    contract: "0x51Bb2F07AF5e2e92E9CE06E8b14f277205FfFA77",
+    title: "The Shadow of the Wolf",
+    author: "R. Austin Freeman",
+    creation: "7/2/2025",
+    claiming_expire: "7/28/2025"
+},
+{
     contract: "0xECC1E5833817FE61C9e36dB960Ac6E92f666BDa3",
     title: "The Messiah of the Cylinder",
     author: "Genevieve Behrend",
