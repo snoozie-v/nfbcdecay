@@ -6,7 +6,50 @@
 //     claiming_expire: ""
 // },
 
+// {
+//     contract: "0xF073b806d21Cf902a27CFa8aF3CCbD8fb00eC63c",
+//     title: "Outa Kare's Stories: South African Folk-Lore Tales   ",
+//     author: " Sanni Metelerkamp",
+//     creation: "7/2/2025",
+//     claiming_expire: "8/4/2025"
+// },
+// {
+//     contract: "0xd1f533472B1b5Da24BF318f61adbab1C4202af3d",
+//     title: "The Begum's Fortune",
+//     author: "Jules Verne",
+//     creation: "7/2/2025",
+//     claiming_expire: "8/4/2025"
+// },
+// {
+//     contract: "0xAC7cc1326e2F639dc4bEaD66A2c79e4222365917",
+//     title: "Buried Alive",
+//     author: "Arnold Bennett",
+//     creation: "7/2/2025",
+//     claiming_expire: "8/4/2025"
+// },
+
 const data = [
+{
+    contract: "0xF073b806d21Cf902a27CFa8aF3CCbD8fb00eC63c",
+    title: "Outa Kare's Stories: South African Folk-Lore Tales   ",
+    author: " Sanni Metelerkamp",
+    creation: "7/2/2025",
+    claiming_expire: "8/4/2025"
+},
+{
+    contract: "0xd1f533472B1b5Da24BF318f61adbab1C4202af3d",
+    title: "The Begum's Fortune",
+    author: "Jules Verne",
+    creation: "7/2/2025",
+    claiming_expire: "8/4/2025"
+},
+{
+    contract: "0xAC7cc1326e2F639dc4bEaD66A2c79e4222365917",
+    title: "Buried Alive",
+    author: "Arnold Bennett",
+    creation: "7/2/2025",
+    claiming_expire: "8/4/2025"
+},
 {
     contract: "0x175E215edDCc96402C57Ef5C2AaDeC3cE8C1B46C",
     title: "The City at World's End",
