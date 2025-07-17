@@ -6,29 +6,30 @@
 //     claiming_expire: ""
 // },
 
-// {
-//     contract: "0xF073b806d21Cf902a27CFa8aF3CCbD8fb00eC63c",
-//     title: "Outa Kare's Stories: South African Folk-Lore Tales   ",
-//     author: " Sanni Metelerkamp",
-//     creation: "7/2/2025",
-//     claiming_expire: "8/4/2025"
-// },
-// {
-//     contract: "0xd1f533472B1b5Da24BF318f61adbab1C4202af3d",
-//     title: "The Begum's Fortune",
-//     author: "Jules Verne",
-//     creation: "7/2/2025",
-//     claiming_expire: "8/4/2025"
-// },
-// {
-//     contract: "0xAC7cc1326e2F639dc4bEaD66A2c79e4222365917",
-//     title: "Buried Alive",
-//     author: "Arnold Bennett",
-//     creation: "7/2/2025",
-//     claiming_expire: "8/4/2025"
-// },
+
 
 const data = [
+{
+    contract: "0xE18caF4B68E55773CA1Bd68873476261792385B4",
+    title: "The Lady in The Car",
+    author: "William Le Queux",
+    creation: "7/15/2025",
+    claiming_expire: "8/11/2025"
+},
+{
+    contract: "0x2c77fb2CA53822C51c86Ba2a0E0F6d3B005353D0",
+    title: "The Street Called Straight",
+    author: "Basil Kink",
+    creation: "7/15/2025",
+    claiming_expire: "8/11/2025"
+},
+{
+    contract: "0x586e530622De605c803534dAEa8cDa85CD3114c2",
+    title: "XYZ A Detective Story",
+    author: "Anna Katherine Green",
+    creation: "7/15/2025",
+    claiming_expire: "8/11/2025"
+},
 {
     contract: "0xF073b806d21Cf902a27CFa8aF3CCbD8fb00eC63c",
     title: "Outa Kare's Stories: South African Folk-Lore Tales   ",
