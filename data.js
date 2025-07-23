@@ -10,6 +10,13 @@
 
 const data = [
 {
+    contract: "0x596477BB64E54D2B248FF80B9aF86A23186d6975",
+    title: "The Tale of Eisenreich: A VeKings Original Story ",
+    author: "Maik",
+    creation: "7/23/2025",
+    claiming_expire: "8/18/2025"
+},
+{
     contract: "0xE18caF4B68E55773CA1Bd68873476261792385B4",
     title: "The Lady in The Car",
     author: "William Le Queux",
