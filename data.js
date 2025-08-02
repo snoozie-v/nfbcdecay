@@ -10,7 +10,7 @@ const data = [
 {
     contract: "0xca0FFd2d54FCa27EA851c667b4e6428FC209757d",
     title: "All Quiet on the Western Front",
-    author: "Maria Remarque",
+    author: "Erich Maria Remarque",
     creation: "7/15/25",
     claiming_expire: "8/25/25"
 },
