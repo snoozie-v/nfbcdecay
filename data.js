@@ -8,6 +8,34 @@
 
 const data = [
 {
+    contract: "0x24dC0Bc78eb20870C3F459Fc6a22baa3bE3aAC86",
+    title: "The Lost Warship",
+    author: "Robert Moore Williams",
+    creation: "8/6/2025",
+    claiming_expire: "9/1/2025"
+},
+{
+    contract: "0xCd890f51e83650830D902C1c9D348f03f4303f9D",
+    title: "Mental Efficiency",
+    author: "Arnold Bennett",
+    creation: "8/6/2025",
+    claiming_expire: "9/1/2025"
+},
+{
+    contract: "0x98620929b08610aE598B566399410Eb6ca0BBC87",
+    title: "In the Heart of the Rockies",
+    author: "G. A. Henty",
+    creation: "8/6/2025",
+    claiming_expire: "9/1/2025"
+},
+{
+    contract: "0xEdc031FcA659b0BE87d793724E037498BA29C939",
+    title: "Red Shadows",
+    author: "Robert E. Howard",
+    creation: "8/6/2025",
+    claiming_expire: "9/1/2025"
+},
+{
     contract: "0xca0FFd2d54FCa27EA851c667b4e6428FC209757d",
     title: "All Quiet on the Western Front",
     author: "Erich Maria Remarque",
