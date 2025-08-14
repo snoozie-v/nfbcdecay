@@ -6,8 +6,31 @@
 //     claiming_expire: ""
 // },
 
+
+
 const data = [
 {
+    contract: "0xb719ef8a197c7682f1b408817A2C3D92Ae858354",
+    title: "The Marines at Peleliu",
+    author: "Gordon D. Gayle",
+    creation: "8/6/2025",
+    claiming_expire: "9/8/2025"
+},
+{
+    contract: "0xf899d55956ec8A66599A941070f09e4cCca1f38f",
+    title: "The Big Time",
+    author: "Fritz Leiber",
+    creation: "8/6/2025",
+    claiming_expire: "9/8/2025"
+},
+{
+    contract: "0xB08455E03e7bDee9e814925eEaE44b0Dca675718",
+    title: "The Blue Envelope",
+    author: "Roy J. Snell",
+    creation: "8/6/2025",
+    claiming_expire: "9/8/2025"
+},
+  {
     contract: "0x24dC0Bc78eb20870C3F459Fc6a22baa3bE3aAC86",
     title: "The Lost Warship",
     author: "Robert Moore Williams",
