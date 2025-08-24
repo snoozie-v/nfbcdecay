@@ -10,6 +10,34 @@
 
 const data = [
 {
+    contract: "0x18824e356D52cc0e46cb81d7B47D64807B4fD081",
+    title: "On Liberty",
+    author: "John Stuart Mill",
+    creation: "8/21/25",
+    claiming_expire: "9/22/25"
+},
+{
+    contract: "0x110D63716A69941071A2A877F092E83eEbbCbc1F",
+    title: "The 64-Square Madhouse",
+    author: "Fritz Leiber",
+    creation: "8/21/25",
+    claiming_expire: "9/22/25"
+},
+  {
+    contract: "0xbA72E2740E0d5b8E7646A11ba4EcC6CE7997dc37",
+    title: "The Brethren",
+    author: "H. Rider Haggard",
+    creation: "8/21/25",
+    claiming_expire: "9/15/25"
+},
+{
+    contract: "0xfD4fc2fD01Dff9394af0783a9e92E8f8b86E7432",
+    title: "Red Hot Ice",
+    author: "Frank Kane",
+    creation: "8/21/25",
+    claiming_expire: "9/15/25"
+},
+{
     contract: "0xb719ef8a197c7682f1b408817A2C3D92Ae858354",
     title: "The Marines at Peleliu",
     author: "Gordon D. Gayle",
