@@ -10,6 +10,13 @@
 
 const data = [
 {
+    contract: "0x4dF18FD5AC39554960B0a264de5b30489B2e58b0",
+    title: "Under Western Eyes",
+    author: "Joseph Conrad",
+    creation: "9/5/25",
+    claiming_expire: "9/22/25"
+},
+{
     contract: "0x18824e356D52cc0e46cb81d7B47D64807B4fD081",
     title: "On Liberty",
     author: "John Stuart Mill",
