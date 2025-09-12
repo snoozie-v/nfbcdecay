@@ -10,6 +10,34 @@
 
 const data = [
 {
+    contract: "0x541D04d4C629945E347475Fd69278Ec57a05A98C",
+    title: "Baby Moll",
+    author: "John Harris",
+    creation: "9/11/25",
+    claiming_expire: "10/13/25"
+},
+{
+    contract: "0xecfEb35f22D24F742Ce7f5D820BF593CaFF71007",
+    title: "Mythology",
+    author: "Jane Ellen Harrison",
+    creation: "9/11/25",
+    claiming_expire: "10/13/25"
+},
+{
+    contract: "0xF3cB808f07BA32cEBB25629dc024F2698a60834B",
+    title: "The Canadians of Old",
+    author: "Phillipe Aubert De Gaspe",
+    creation: "9/11/25",
+    claiming_expire: "10/6/25"
+},
+{
+    contract: "0xA587EdB5BFE817017c7E69115B3B86B34280BF08",
+    title: "Gudrun",
+    author: "Ferdinand Schmidt",
+    creation: "9/11/25",
+    claiming_expire: "10/6/25"
+},
+{
     contract: "0x4dF18FD5AC39554960B0a264de5b30489B2e58b0",
     title: "Under Western Eyes",
     author: "Joseph Conrad",
